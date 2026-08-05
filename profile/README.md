@@ -28,6 +28,16 @@ Every feature, every update, and every late night is driven by one goal:
 
 > **Helping creators and businesses turn more visitors into customers.**
 
+------------------------------------------------------------------------------
+## Community
+
+<p align="center">
+<img src="./asset/community.png">
+</p>
+-------------------------------------------------------------------------------
+
+
+
 ## Support Our Journey
 
 Building great products takes time, passion, and community support.
