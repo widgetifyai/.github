@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://widgetifyai.vercel.app/">
+    <img src="./assets/herobanner.png" width="100%" alt="Widgetify">
+  </a>
+</p>
 # Build Better Websites with Widgetify
 
 We believe every website deserves to convert visitors into customers.
