@@ -32,7 +32,9 @@ Every feature, every update, and every late night is driven by one goal:
 ## Community
 
 <p align="center">
+ <a href="widgetifyai.slack.com">
 <img src="./asset/community.png">
+ </a>
 </p>
 -------------------------------------------------------------------------------
 
